@@ -2274,7 +2274,7 @@
     (uuid 41e337e2-8bb5-4b7b-bff1-965426e30326)
     (property "Reference" "J1" (id 0) (at 35.56 48.26 0))
     (property "Value" "HEADER" (id 1) (at 35.56 50.8 0))
-    (property "Footprint" "Strix:Breadboard_Header_01x08" (id 2) (at 35.56 62.23 0)
+    (property "Footprint" "Strix:Header_Breadboard_1x08" (id 2) (at 35.56 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 35.56 62.23 0)
@@ -2743,7 +2743,7 @@
       (reference "D1") (unit 1) (value "D_ESD") (footprint "Strix:D_0402")
     )
     (path "/41e337e2-8bb5-4b7b-bff1-965426e30326"
-      (reference "J1") (unit 1) (value "HEADER") (footprint "Strix:Breadboard_Header_01x08")
+      (reference "J1") (unit 1) (value "HEADER") (footprint "Strix:Header_Breadboard_1x08")
     )
     (path "/e3f12138-6632-405e-aba7-aaa8ec08b644"
       (reference "J2") (unit 1) (value "Coax") (footprint "Strix:SMA-Edge")
